@@ -5,11 +5,11 @@ Description :-
 In this repository Regression and Classification Machine leaning projects. In these projects used various Machine Learning algorithms.
 
 
-# Programming language:-  
+### Programming language:-  
 
 Python
 
-# Tools/Notebooks:-
+### Tools/Notebooks:-
 
 Google Colab Notebook, Jupyter Notebook
 
